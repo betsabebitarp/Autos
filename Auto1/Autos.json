@@ -1,0 +1,17 @@
+[
+    {
+    "marca": "Toyota",
+    "modelo": "Hilux",
+    "anio": 2022
+},
+{   "marca": "Ford",
+    "modelo": "Focus", 
+    "anio:": 2014
+},
+{
+    "marca": "Renault",
+    "modelo": "Clio",
+    "anio": 2006
+}
+
+]
